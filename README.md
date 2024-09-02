@@ -1,5 +1,10 @@
 # Hardware
 
+> Circuit Maker workspace
+```
+https://workspace.circuitmaker.com/User/Details/HECTOR-GUARNEROS
+```
+
 ## HMI
 ![image](https://github.com/user-attachments/assets/1241a168-e812-48a6-a2e0-683fb00a0026)
 
